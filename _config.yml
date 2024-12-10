@@ -21,12 +21,12 @@ repository               : "ellen-dege/ellen-dege.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "../photos/me/Walsh-lab_bench_default_crop.png"
+  name             : "E. M. DeGennaro"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Interdisciplinary Scientist"
+  location         : 
+  employer         : "University of Colorado Boulder"
   uri              : # URL
   email            : "none@example.org" 
 
