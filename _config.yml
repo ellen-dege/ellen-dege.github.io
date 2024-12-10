@@ -21,34 +21,34 @@ repository               : "ellen-dege/ellen-dege.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "../photos/me/Walsh-lab_bench_default_crop.png"
+  avatar           : "Walsh-lab_bench_default_crop.png"
   name             : "E. M. DeGennaro"
   pronouns         : # example: "she/her"  
   bio              : "Interdisciplinary Scientist"
   location         : 
   employer         : "University of Colorado Boulder"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "ellen.degennaro@colorado.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=dkB0A4wAAAAJ"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
-  semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  orcid            : "https://orcid.org/my-orcid?orcid=0000-0001-5506-6451"
+  semantic         : "https://www.semanticscholar.org/author/Ellen-M.-DeGennaro/4265660"
+  pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=ellen+m+degennaro"
   researchgate     : # URL
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "https://github.com/ellen-dege"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "ellen-dege"
+  bluesky          : "ellen-dege.bsky.social"
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
